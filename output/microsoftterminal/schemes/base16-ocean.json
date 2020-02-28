@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Ocean",
+	"foreground": "#c0c5ce",
+	"background": "#2b303b",
+	"black": "#65737e",
+	"blue": "#8fa1b3",
+	"brightBlack": "#65737e",
+	"brightBlue": "#8fa1b3",
+	"brightCyan": "#96b5b4",
+	"brightGreen": "#a3be8c",
+	"brightPurple": "#b48ead",
+	"brightRed": "#bf616a",
+	"brightWhite": "#c0c5ce",
+	"brightYellow": "#ebcb8b",
+	"cyan": "#96b5b4",
+	"green": "#a3be8c",
+	"purple": "#b48ead",
+	"red": "#bf616a",
+	"white": "#c0c5ce",
+	"yellow": "#ebcb8b"
+},
+

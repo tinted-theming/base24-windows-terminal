@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "IR Black",
+	"foreground": "#b5b3aa",
+	"background": "#000000",
+	"black": "#6c6c66",
+	"blue": "#96cbfe",
+	"brightBlack": "#6c6c66",
+	"brightBlue": "#96cbfe",
+	"brightCyan": "#c6c5fe",
+	"brightGreen": "#a8ff60",
+	"brightPurple": "#ff73fd",
+	"brightRed": "#ff6c60",
+	"brightWhite": "#b5b3aa",
+	"brightYellow": "#ffffb6",
+	"cyan": "#c6c5fe",
+	"green": "#a8ff60",
+	"purple": "#ff73fd",
+	"red": "#ff6c60",
+	"white": "#b5b3aa",
+	"yellow": "#ffffb6"
+},
+

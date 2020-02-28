@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Unikitty Dark",
+	"foreground": "#bcbabe",
+	"background": "#2e2a31",
+	"black": "#838085",
+	"blue": "#796af5",
+	"brightBlack": "#838085",
+	"brightBlue": "#796af5",
+	"brightCyan": "#149bda",
+	"brightGreen": "#17ad98",
+	"brightPurple": "#bb60ea",
+	"brightRed": "#d8137f",
+	"brightWhite": "#bcbabe",
+	"brightYellow": "#dc8a0e",
+	"cyan": "#149bda",
+	"green": "#17ad98",
+	"purple": "#bb60ea",
+	"red": "#d8137f",
+	"white": "#bcbabe",
+	"yellow": "#dc8a0e"
+},
+

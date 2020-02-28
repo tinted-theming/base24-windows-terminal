@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Material",
+	"foreground": "#EEFFFF",
+	"background": "#263238",
+	"black": "#546E7A",
+	"blue": "#82AAFF",
+	"brightBlack": "#546E7A",
+	"brightBlue": "#82AAFF",
+	"brightCyan": "#89DDFF",
+	"brightGreen": "#C3E88D",
+	"brightPurple": "#C792EA",
+	"brightRed": "#F07178",
+	"brightWhite": "#EEFFFF",
+	"brightYellow": "#FFCB6B",
+	"cyan": "#89DDFF",
+	"green": "#C3E88D",
+	"purple": "#C792EA",
+	"red": "#F07178",
+	"white": "#EEFFFF",
+	"yellow": "#FFCB6B"
+},
+

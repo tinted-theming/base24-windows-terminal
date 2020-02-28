@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Atelier Estuary",
+	"foreground": "#929181",
+	"background": "#22221b",
+	"black": "#6c6b5a",
+	"blue": "#36a166",
+	"brightBlack": "#6c6b5a",
+	"brightBlue": "#36a166",
+	"brightCyan": "#5b9d48",
+	"brightGreen": "#7d9726",
+	"brightPurple": "#5f9182",
+	"brightRed": "#ba6236",
+	"brightWhite": "#929181",
+	"brightYellow": "#a5980d",
+	"cyan": "#5b9d48",
+	"green": "#7d9726",
+	"purple": "#5f9182",
+	"red": "#ba6236",
+	"white": "#929181",
+	"yellow": "#a5980d"
+},
+

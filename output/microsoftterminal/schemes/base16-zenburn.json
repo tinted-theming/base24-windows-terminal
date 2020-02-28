@@ -1,0 +1,23 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Zenburn",
+	"foreground": "#dcdccc",
+	"background": "#383838",
+	"black": "#6f6f6f",
+	"blue": "#7cb8bb",
+	"brightBlack": "#6f6f6f",
+	"brightBlue": "#7cb8bb",
+	"brightCyan": "#93e0e3",
+	"brightGreen": "#5f7f5f",
+	"brightPurple": "#dc8cc3",
+	"brightRed": "#dca3a3",
+	"brightWhite": "#dcdccc",
+	"brightYellow": "#e0cf9f",
+	"cyan": "#93e0e3",
+	"green": "#5f7f5f",
+	"purple": "#dc8cc3",
+	"red": "#dca3a3",
+	"white": "#dcdccc",
+	"yellow": "#e0cf9f"
+},
+
