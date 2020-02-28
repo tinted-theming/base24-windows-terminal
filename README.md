@@ -1,11 +1,10 @@
-<p float="left">
-<a href="../../"><img src="https://img.shields.io/github/languages/top/Base24/base24-windows-terminal.svg?style=flat-square" alt="Github top language"></a>
-<a href="../../"><img src="https://img.shields.io/github/repo-size/Base24/base24-windows-terminal.svg?style=flat-square" alt="Repository size"></a>
-<a href="../../issues"><img src="https://img.shields.io/github/issues/Base24/base24-windows-terminal.svg?style=flat-square" alt="Issues"></a>
-<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/Base24/base24-windows-terminal.svg?style=flat-square" alt="License"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/Base24/base24-windows-terminal.svg?style=flat-square" alt="Commit activity"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/Base24/base24-windows-terminal.svg?style=flat-square" alt="Last commit"></a>
-</p>
+[![Github top language](https://img.shields.io/github/languages/top/Base24/base24-builder-python.svg?style=for-the-badge)](../../)
+[![Codacy grade](https://img.shields.io/codacy/grade/[codacy-proj-id].svg?style=for-the-badge)](https://www.codacy.com/manual/Base24/base24-builder-python)
+[![Repository size](https://img.shields.io/github/repo-size/Base24/base24-builder-python.svg?style=for-the-badge)](../../)
+[![Issues](https://img.shields.io/github/issues/Base24/base24-builder-python.svg?style=for-the-badge)](../../issues)
+[![License](https://img.shields.io/github/license/Base24/base24-builder-python.svg?style=for-the-badge)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/Base24/base24-builder-python.svg?style=for-the-badge)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/Base24/base24-builder-python.svg?style=for-the-badge)](../../commits/master)
 
 # base24-windows-terminal
 
