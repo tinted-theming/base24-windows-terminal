@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Hardcore",
+	"foreground": "#adada9",
+	"background": "#121212",
+	"black": "#1b1d1e",
+	"blue": "#66d9ef",
+	"brightBlack": "#505354",
+	"brightBlue": "#66d9ef",
+	"brightCyan": "#a3babf",
+	"brightGreen": "#beed5f",
+	"brightPurple": "#9e6ffe",
+	"brightRed": "#ff669d",
+	"brightWhite": "#f8f8f2",
+	"brightYellow": "#e6db74",
+	"cyan": "#5e7175",
+	"green": "#a6e22e",
+	"purple": "#9e6ffe",
+	"red": "#f92672",
+	"white": "#ccccc6",
+	"yellow": "#fd971f"
+},

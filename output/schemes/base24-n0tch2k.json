@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "N0tch2k",
+	"foreground": "#ad9b8c",
+	"background": "#222222",
+	"black": "#383838",
+	"blue": "#657d3e",
+	"brightBlack": "#474747",
+	"brightBlue": "#98bd5e",
+	"brightCyan": "#dcdcdc",
+	"brightGreen": "#8c8c8c",
+	"brightPurple": "#a3a3a3",
+	"brightRed": "#a97775",
+	"brightWhite": "#d8c8bb",
+	"brightYellow": "#a99175",
+	"cyan": "#c9c9c9",
+	"green": "#666666",
+	"purple": "#767676",
+	"red": "#a95551",
+	"white": "#d0b8a3",
+	"yellow": "#a98051"
+},

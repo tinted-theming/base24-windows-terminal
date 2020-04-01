@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Urple",
+	"foreground": "#7c677e",
+	"background": "#1b1b23",
+	"black": "#000000",
+	"blue": "#554d9a",
+	"brightBlack": "#5c3125",
+	"brightBlue": "#8579ed",
+	"brightCyan": "#eaeaea",
+	"brightGreen": "#28e51f",
+	"brightPurple": "#a05dee",
+	"brightRed": "#ff6387",
+	"brightWhite": "#bfa3ff",
+	"brightYellow": "#f08061",
+	"cyan": "#808080",
+	"green": "#37a315",
+	"purple": "#6c3ba1",
+	"red": "#af425b",
+	"white": "#87799c",
+	"yellow": "#ac5b41"
+},

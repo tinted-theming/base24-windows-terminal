@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Flat",
+	"foreground": "#8c939a",
+	"background": "#002240",
+	"black": "#222d3f",
+	"blue": "#3167ac",
+	"brightBlack": "#212c3c",
+	"brightBlue": "#3c7dd2",
+	"brightCyan": "#35b387",
+	"brightGreen": "#2d9440",
+	"brightPurple": "#8230a7",
+	"brightRed": "#d4312e",
+	"brightWhite": "#e7eced",
+	"brightYellow": "#e5be0c",
+	"cyan": "#2c9370",
+	"green": "#32a548",
+	"purple": "#781aa0",
+	"red": "#a82320",
+	"white": "#b0b6ba",
+	"yellow": "#e58d11"
+},

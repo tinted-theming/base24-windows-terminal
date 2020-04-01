@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "synthwave-everything",
+	"foreground": "#fefefe",
+	"background": "#2a2139",
+	"black": "#fefefe",
+	"blue": "#6d77b3",
+	"brightBlack": "#fefefe",
+	"brightBlue": "#36f9f6",
+	"brightCyan": "#f92aad",
+	"brightGreen": "#72f1b8",
+	"brightPurple": "#e1acff",
+	"brightRed": "#f88414",
+	"brightWhite": "#fefefe",
+	"brightYellow": "#fff951",
+	"cyan": "#f772e0",
+	"green": "#72f1b8",
+	"purple": "#c792ea",
+	"red": "#f97e72",
+	"white": "#fefefe",
+	"yellow": "#fede5d"
+},

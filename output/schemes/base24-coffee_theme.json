@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "coffee_theme",
+	"foreground": "#afafaf",
+	"background": "#f5deb3",
+	"black": "#000000",
+	"blue": "#0225c7",
+	"brightBlack": "#676767",
+	"brightBlue": "#6871ff",
+	"brightCyan": "#5ffdff",
+	"brightGreen": "#5ff967",
+	"brightPurple": "#ff76ff",
+	"brightRed": "#ff6d67",
+	"brightWhite": "#feffff",
+	"brightYellow": "#fefb67",
+	"cyan": "#00c5c7",
+	"green": "#00c200",
+	"purple": "#c930c7",
+	"red": "#c91b00",
+	"white": "#c7c7c7",
+	"yellow": "#c7c400"
+},
