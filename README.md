@@ -1,3 +1,8 @@
+**Deprecated**: base24-windows-terminal and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 [![Github top language](https://img.shields.io/github/languages/top/Base24/base24-windows-terminal.svg?style=for-the-badge)](../../)
 [![Codacy grade](https://img.shields.io/codacy/grade/[codacy-proj-id].svg?style=for-the-badge)](https://www.codacy.com/manual/Base24/base24-windows-terminal)
 [![Repository size](https://img.shields.io/github/repo-size/Base24/base24-windows-terminal.svg?style=for-the-badge)](../../)
